@@ -20,3 +20,8 @@ function App() {
 }
 
 export default App;
+
+
+
+
+/****** Coding exercise 26: Creating and using context (Code is on Udemy code exercise block) ******/
