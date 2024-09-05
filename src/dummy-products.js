@@ -15,14 +15,13 @@ export const DUMMY_PRODUCTS = [
       'Channel timeless sophistication with this stunning mocha overcoat. Crafted for the discerning gentleman who appreciates the fine blend of vintage charm and modern elegance.',
   },
   {
-    id: 'p2',
-    image: dreamGown,
-    title: 'Enchanting Blush Dream Gown',
-    price: 189.99,
+    id: 'p6',
+    image: denimPioneer,
+    title: 'Pioneer Rugged Denim Jacket',
+    price: 79.99,
     description:
-      'Bask in the glow of elegance with our Enchanting Blush Dream Gown. Embody the regality of a queen with a sweet touch of pink that whispers enchantment. This is the perfect piece for those seeking to create unforgettable moments.',
-  },
-
+    'Our Pioneer Rugged Denim Jacket is a tribute to those who embody the spirit of adventure. Designed with durability and comfort in mind, this jacket is a wardrobe essential for the urban explorer.'
+    },
   {
     id: 'p3',
     image: rainJacket,
@@ -48,11 +47,12 @@ export const DUMMY_PRODUCTS = [
     'Sweep the room off its feet in our Ethereal Moonlight Evening Dress. Crafted to mimic the allure of the moonlight, this dress is a nod to those who appreciate subtle glamour and a standout silhouette.',
     },
     {
-    id: 'p6',
-    image: denimPioneer,
-    title: 'Pioneer Rugged Denim Jacket',
-    price: 79.99,
-    description:
-    'Our Pioneer Rugged Denim Jacket is a tribute to those who embody the spirit of adventure. Designed with durability and comfort in mind, this jacket is a wardrobe essential for the urban explorer.'
-    }
+      id: 'p2',
+      image: dreamGown,
+      title: 'Enchanting Blush Dream Gown',
+      price: 189.99,
+      description:
+        'Bask in the glow of elegance with our Enchanting Blush Dream Gown. Embody the regality of a queen with a sweet touch of pink that whispers enchantment. This is the perfect piece for those seeking to create unforgettable moments.',
+    },
+    
 ];
